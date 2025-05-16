@@ -7,19 +7,19 @@ Welcome to this **AI-Powered Chatbot** project! Built with **Node.js** and integ
 ## 🚀 Features
 
 - **Natural Conversations:** Powered by Google Gemini API for fluent, human-like responses.
-- 
+  
 - **PDF Upload & Parsing:** Upload PDF documents, which are parsed and their content incorporated into chatbot replies.
-- 
+ 
 - **Professional UI:** Monochrome, clean design focusing on readability and usability.
-- 
+  
 - **Chat History Sidebar:** Easily accessible via hamburger menu; view all previous user queries.
-- 
+ 
 - **Typing Indicator:** Visual cue when AI is generating a response.
-- 
+ 
 - **File Upload Notifications:** Confirmation shown in the chat when a file is uploaded successfully.
-- 
+ 
 - **Separate Inputs for Text & Files:** Mimics ChatGPT style UI with distinct input controls.
-- 
+  
 - **API Key Integration:** Securely call the Google Gemini API to generate responses.
 
 ---
