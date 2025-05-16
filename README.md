@@ -46,5 +46,4 @@ Before running this project locally, please ensure the following are installed o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ai-chatbot-nodejs.git
-   cd ai-chatbot-nodejs
+   git clone 
